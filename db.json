@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "6bfd8ea",
+      "name": "nike",
+      "price": "15000000",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f3cfe353-4a0d-4040-bc3b-225def16e3b5/jr-phantom-gt2-academy-mg-younger-older-multi-ground-football-boot-H8ll29.png",
+      "status": "false"
+    },
+    {
+      "id": "c6af6a3",
+      "name": "adidas",
+      "price": "1999999",
+      "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c7227d99699243099c24ac5e00406c2c_9366/Giay_co_lung_Forum_trang_FY4976_01_standard.jpg",
+      "status": "true"
+    },
+    {
+      "id": "b6f78ij",
+      "name": "nike one",
+      "price": "2999999",
+      "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/cljsflkbviirew1leboc/revolution-5-running-shoe-8P3bh3.png",
+      "status": "true"
+    },
+    {
+      "id": "69kk8a7",
+      "name": "nikes eg",
+      "price": "35000000",
+      "img": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/w_486,c_limit/4abb154a-0691-4324-ab6f-936af4612fab/air-max-2021-shoe-383M4j.png",
+      "status": "true"
+    },
+    {
+      "id": "dfgem0a",
+      "name": "adidas a1",
+      "price": "4000000",
+      "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/c7227d99699243099c24ac5e00406c2c_9366/Giay_co_lung_Forum_trang_FY4976_01_standard.jpg",
+      "status": "true"
+    },
+    {
+      "id": "fh2hl54",
+      "name": "nike e3",
+      "price": "12000000",
+      "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/640c190e-3a03-4d91-bcd2-176d6dec1d63/air-max-97-shoes-bfqJQG.png",
+      "status": "false"
+    }
+  ],
+  "users": [
+    {
+      "email": "hungnguyen321pro@gmail.com",
+      "password": "$2a$10$2ILbfjGKvsUzhypDeLGmteASSMln61qFufWgFz1aQlp5hvRw1x9/6",
+      "username": "123",
+      "id": 2
+    },
+    {
+      "email": "hau01@gmail.com",
+      "password": "$2a$10$MKyKgg.KZsU3Igxdwco.9uMZh3fVawYOgBvMJp65tOt4IoZfZfCkm",
+      "username": "hau01",
+      "id": 1
+    },
+    {
+      "email": "datlt2306@gmail.com",
+      "password": "$2a$10$Uymi2Fh9fctr7H3uj1rMLuIK.8J3vvuQS.39AolfvrR8kvnzEV.n.",
+      "username": "hau01",
+      "id": 3
+    },
+    {
+      "email": "hau02@gmail.com",
+      "password": "$2a$10$51C/wI.NlQ1c5nrgF0PWCuuB0hiPjgtLHhXOQ2KF2sLs8AKLDgbwS",
+      "id": 4
+    },
+    {
+      "email": "hau03@gmail.com",
+      "password": "$2a$10$NPiulpgnZ84NLr.RNgOO1O6tDf8hWYT2Zc9lWCAjviPVFd0Xt2yJG",
+      "username": "haudeptrai",
+      "id": 5
+    }
+  ]
+}
